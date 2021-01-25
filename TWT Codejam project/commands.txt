@@ -1,0 +1,12 @@
+This project is not a machine learning project so this cannot run random commands so all the functional commands are listed below
+
+1)search + what ever you want to search + in wikipedia -> searches wikipedia
+2)open youtube -> open youtube
+3)open maps -> opens maps-clone
+4)open google -> opens google
+5)open github -> opens github
+6)open stackoverflow -> opens stackoverflow
+7)open code -> opens vs code
+8)play music -> plays music present in your computer
+9)anything that contains "the time" -> tells the current time
+10)anything that contains "meeting" -> starts a meeting in zoom-clone
