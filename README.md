@@ -3,7 +3,7 @@ This project is made by two 13yr old high school student Abhijeet Mourya and Pur
 
 
 Please to visit - https://abhijeetmourya.tech/ or https://abhijeetmourya.netlify.app/
-                  https://puravsihag.tech/     or https://puravsihag.netlify.app/
+            and   https://puravsihag.tech/     or https://puravsihag.netlify.app/
 
 
 
